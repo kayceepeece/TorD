@@ -1,0 +1,82 @@
+[
+  {
+    "type": "truth",
+    "question": "What is your most embarrassing moment?"
+  },
+  {
+    "type": "truth",
+    "question": "What is the craziest thing you've ever done?"
+  },
+  {
+    "type": "truth",
+    "question": "What is your biggest fear?"
+  },
+  {
+    "type": "truth",
+    "question": "What is the most valuable thing you own?"
+  },
+  {
+    "type": "truth",
+    "question": "If you could have any superpower, what would it be?"
+  },
+  {
+    "type": "truth",
+    "question": "What is your biggest pet peeve?"
+  },
+  {
+    "type": "truth",
+    "question": "What is your biggest regret?"
+  },
+  {
+    "type": "truth",
+    "question": "What is the worst date you've ever been on?"
+  },
+  {
+    "type": "truth",
+    "question": "What is the most mischievous thing you did as a child?"
+  },
+  {
+    "type": "truth",
+    "question": "If you could travel back in time, where would you go?"
+  },
+  {
+    "type": "dare",
+    "question": "Sing your favorite song out loud."
+  },
+  {
+    "type": "dare",
+    "question": "Do 20 push-ups."
+  },
+  {
+    "type": "dare",
+    "question": "Act like a chicken for 30 seconds."
+  },
+  {
+    "type": "dare",
+    "question": "Call a random person and say 'I love you'."
+  },
+  {
+    "type": "dare",
+    "question": "Dance like nobody's watching for a minute."
+  },
+  {
+    "type": "dare",
+    "question": "Share an embarrassing photo of yourself on social media."
+  },
+  {
+    "type": "dare",
+    "question": "Eat a spoonful of hot sauce or something spicy."
+  },
+  {
+    "type": "dare",
+    "question": "Impersonate a famous celebrity or character."
+  },
+  {
+    "type": "dare",
+    "question": "Let someone else style your hair or makeup for the day."
+  },
+  {
+    "type": "dare",
+    "question": "Prank call someone you know and try to keep a straight face."
+  }
+]
