@@ -1,0 +1,105 @@
+body {
+
+  font-family: Arial, sans-serif;
+
+  text-align: center;
+
+  background-color: #f2f2f2;
+
+}
+
+h1 {
+
+  color: #333;
+
+}
+
+#players {
+
+  margin-bottom: 20px;
+
+}
+
+#playerInput {
+
+  padding: 5px;
+
+  font-size: 16px;
+
+}
+
+#addPlayerBtn {
+
+  padding: 5px 10px;
+
+  font-size: 16px;
+
+  background-color: #4CAF50;
+
+  color: white;
+
+  border: none;
+
+  cursor: pointer;
+
+}
+
+#addPlayerBtn:hover {
+
+  background-color: #45a049;
+
+}
+
+#playerList {
+
+  list-style-type: none;
+
+  padding: 0;
+
+  margin-top: 10px;
+
+}
+
+#playerList li {
+
+  margin-bottom: 5px;
+
+}
+
+#game {
+
+  margin-top: 50px;
+
+}
+
+button {
+
+  padding: 10px 20px;
+
+  font-size: 16px;
+
+  background-color: #4CAF50;
+
+  color: white;
+
+  border: none;
+
+  cursor: pointer;
+
+}
+
+button:hover {
+
+  background-color: #45a049;
+
+}
+
+#message {
+
+  margin-top: 20px;
+
+  font-size: 18px;
+
+  font-weight: bold;
+
+}
